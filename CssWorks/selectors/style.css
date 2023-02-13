@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(122, 122, 185);
+}
+
+h1{
+    color: aqua;
+    text-align: center;
+}
+
+.section{
+    width: 651px;
+    height: 113px;
+    border: 1px black solid
+}
+
+.row1{
+    background-color: violet;
+}
+
+.row2{
+    background-color: blueviolet;
+}
+
+.row3{
+    background-color: rebeccapurple;
+}
+
+.section1{
+    width: 1302px;
+    height: 115px;
+    border: 1px black solid
+}
+
+.row4{
+    background-color: plum;
+}
+
+.row5{
+    background-color: palevioletred;
+}
+
