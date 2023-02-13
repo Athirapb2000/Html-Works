@@ -1,0 +1,21 @@
+body{
+    background-color: red;
+}
+
+
+h1{
+    text-decoration: underline;
+}
+
+img{
+    width: 100%;
+}
+
+.division{
+    color: white;
+    background-color: black;
+    width: 400px;
+    height: 200px;
+    border: 1px white solid;
+}
+
