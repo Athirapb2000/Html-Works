@@ -1,0 +1,113 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+
+.parent{
+    width: 100%;
+    height: 150px;
+    background-color: black;
+    padding-left: 25%;
+}
+.child{
+    width: 8%;
+    height: 80px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 1px;
+}
+.child:nth-child(1){
+    background-color: pink;
+}
+.child:nth-child(2){
+    background-color: rgb(253, 149, 166);
+}
+.child:nth-child(3){
+    background-color: rgb(255, 97, 123);
+}
+.child:nth-child(4){
+    background-color: rgb(255, 68, 99);
+}
+.child:nth-child(5){
+    background-color: rgb(250, 36, 72);
+}
+.container{
+    width: 100%;
+    height: 150px;
+    background-color:black;
+    padding-left: 15%;
+    
+}
+.col{
+    width: 8%;
+    height: 80px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 1px; 
+}
+.col:nth-child(1){
+    background-color: rgb(197, 187, 206);
+}
+.col:nth-child(2){
+    background-color: rgb(185, 164, 204);
+}
+.col:nth-child(3){
+    background-color: rgb(177, 147, 206);
+}
+.col:nth-child(4){
+    background-color:rgb(173, 136, 207);
+}
+.col:nth-child(5){
+    background-color: rgb(154, 105, 199);
+}
+.col:nth-child(6){
+    background-color: rgb(138, 79, 194);
+}
+.col:nth-child(7){
+    background-color: rgb(128, 61, 190);
+}
+.row{
+    width: 100%;
+    height: 150px;
+    background-color:black;
+    padding-left: 5%;
+    
+}
+.columns{
+    width: 8%;
+    height: 80px;
+    float: left;
+    margin-left:20px;
+    margin-top: 1px; 
+    
+}
+.columns:nth-child(1){
+    background-color: rgb(236, 255, 206);
+}
+.columns:nth-child(2){
+    background-color: rgb(229, 255, 187);
+}
+.columns:nth-child(3){
+    background-color: rgb(219, 255, 162);
+}
+.columns:nth-child(4){
+    background-color:rgb(214, 255, 149);
+}
+.columns:nth-child(5){
+    background-color: rgb(205, 255, 124);
+}
+.columns:nth-child(6){
+    background-color: rgb(196, 255, 101);
+}
+.columns:nth-child(7){
+    background-color: rgb(187, 255, 78);
+}
+.columns:nth-child(8){
+    background-color:rgb(176, 255, 49);
+}
+.columns:nth-child(9){
+    background-color:rgb(165, 255, 21);
+}

@@ -1,0 +1,29 @@
+/* body{
+    background-color: rgb(80, 80, 80);
+} */
+
+.container{
+    width: 80%;
+    min-height: 400px;
+    margin: auto;
+    border: 1px black solid;
+    margin-top: 8%;
+    display: flex;
+}
+
+.section:nth-child(1){
+    min-height: 400px;
+    width: 30%;
+    border: 1px solid black;
+}
+
+.section:nth-child(2){
+    min-height: 400px;
+    width: 80%;
+    border: 1px solid black;
+    padding-left: 50px;
+}
+
+.section:nth-child(2) h3{
+    color: rgb(255, 55, 55);
+}
